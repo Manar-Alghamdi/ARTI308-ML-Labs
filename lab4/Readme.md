@@ -1,7 +1,9 @@
 Lab 4: Data Quality Assessment & Preprocessing
+
 Dataset: insurance.csv
 
-Overview
+Overview:
+
 This lab demonstrates preprocessing steps on the insurance dataset, including missing value handling, outlier detection, normalization, and PCA.
 
 Tasks Completed
