@@ -28,4 +28,5 @@ Tasks Completed
  • Applied PCA → extracted PC1 and PC2 capturing most of the variance.
 
 Conclusion
+
 The dataset is now cleaned, normalized, and ready for machine learning modeling or further analysis.
